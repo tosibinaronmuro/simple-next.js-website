@@ -23,7 +23,7 @@ function Footer() {
               <li className="mb-4">
                 <a
                   href="https://github.com/tosibinaronmuro"
-                  target={"_blank"}
+                  target={"_blank"} rel='nonreferrer'
                   className="hover:underline "
                 >
                   Github
@@ -32,7 +32,7 @@ function Footer() {
               <li>
                 <a
                   href="https://discordapp.com/users/#8863"
-                  target={"_blank"}
+                  target={"_blank"} rel='nonreferrer'
                   className="hover:underline"
                 >
                   Discord
@@ -74,7 +74,7 @@ function Footer() {
 </a> */}
           <a
             href="https://www.instagram.com/tosironj/"
-            target={"_blank"}
+            target={"_blank"} rel='nonreferrer'  
             className="text-gray-500 hover:text-gray-900  "
           >
             <svg
@@ -92,7 +92,7 @@ function Footer() {
           </a>
           <a
             href="https://twitter.com/tosiron2"
-            target={"_blank"}
+            target={"_blank"} rel='nonreferrer'
             className="text-gray-500 hover:text-gray-900  "
           >
             <svg
@@ -106,7 +106,7 @@ function Footer() {
           </a>
           <a
             href="https://github.com/tosibinaronmuro"
-            target={"_blank"}
+            target={"_blank"} rel='nonreferrer'
             className="text-gray-500 hover:text-gray-900  "
           >
             <svg
