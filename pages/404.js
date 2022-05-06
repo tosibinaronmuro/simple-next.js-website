@@ -14,7 +14,7 @@ function NotFound() {
   return (
     <>
       <Head>
-        <title>Tosiron's list | 404</title>
+        <title>{"Tosiron's list | 404"}</title>
         <meta name="keywords" content="Tosiron" />
       </Head>
       <div className="not-found">

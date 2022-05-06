@@ -6,7 +6,7 @@ function Home() {
   return (
     <>
       <Head>
-        <title>Tosiron's list | home</title>
+        <title>{"Tosiron's list | home"}</title>
         <meta name="keywords" content="Tosiron" />
       </Head>
       <div className="content">

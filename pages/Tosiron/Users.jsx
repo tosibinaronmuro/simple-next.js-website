@@ -18,7 +18,7 @@ function Users({tosiron}) {
   return (
     <div className=''> 
     <Head>
-      <title>Tosiron's list | Users</title>
+      <title>{"Tosiron's list | Users"}</title>
     </Head>
     <h1>all users</h1>
     {tosiron.map((user)=> 

@@ -32,7 +32,7 @@ function Details({tosiron}) {
     const router = useRouter();
   return <div>
       <Head>
-          <title>Tosiron's list | user</title>
+          <title>{"Tosiron's list | user"}</title>
       </Head>
       
       <div className="content">

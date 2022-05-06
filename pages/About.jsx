@@ -3,7 +3,7 @@ const About = () => {
      return ( 
          <>
 <Head>
-      <title>Tosiron's list | about</title>
+      <title>{"Tosiron's list | about"}</title>
       <meta name='keywords' content='Tosiron'/>
     </Head>
         <div className="content">
