@@ -38,7 +38,7 @@ function Details({tosiron}) {
       <div className="content">
       <a className="back" onClick={()=>{router.back()}}>back</a>
           
-          <h1>
+          <h1 className="text-2xl font-bold">
               User Details 
           </h1>
           <hr />

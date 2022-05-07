@@ -18,8 +18,8 @@ function NotFound() {
         <meta name="keywords" content="Tosiron" />
       </Head>
       <div className="not-found">
-        <h1>Ooooops...</h1>
-        <h2>That page cannot be found</h2>
+        <h1 className="text-2xl font-bold">Ooooops...</h1>
+        <h2 className="text-lg font-bold">That page cannot be found</h2>
         <p>
           go back to the{" "}
           <Link href="/">

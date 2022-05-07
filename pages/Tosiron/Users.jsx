@@ -20,7 +20,7 @@ function Users({tosiron}) {
     <Head>
       <title>{"Tosiron's list | Users"}</title>
     </Head>
-    <h1>all users</h1>
+    <h1 className="text-2xl font-bold m-3" >all users</h1>
     {tosiron.map((user)=> 
    <Link href={'/Tosiron/'+ user.id } key={user.id}>
        <a className={styles.single}>

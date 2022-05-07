@@ -4,7 +4,7 @@ import Image from 'next/image'
 function Navbar() {
   return (
     <nav>
-        <div className="logo">
+        <div className="mr-auto ml-5">
             <Image  width={'60px'} height={'60px'} src="/logo.png" alt="" />
         </div>
        <Link href='/'><a>Home</a></Link> 

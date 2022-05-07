@@ -10,7 +10,7 @@ function Home() {
         <meta name="keywords" content="Tosiron" />
       </Head>
       <div className="content">
-        <h1>Home</h1>
+        <h1 className="text-2xl font-bold">Home</h1>
         <p className={styles.text}>
           hello worldddd Lorem ipsum dolor sit amet consectetur adipisicing
           elit. Necessitatibus iste dolorem illo natus repellat, deserunt
